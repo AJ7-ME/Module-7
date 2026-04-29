@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import messagebox
-
 root = Tk()
 root.geometry("400x200")
 def a():
